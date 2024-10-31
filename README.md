@@ -1,11 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/nikita-morgun/" target="_blank">Nikita</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<div align="center">
-  
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=720px&lines=+Experienced+and+extremely+curious+software+engineer.)](https://git.io/typing-svg)
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=troubleShooter239&theme=catppuccin_mocha&show_icons=true)
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
-</div>
 
 # Skills
 ##### Languages
