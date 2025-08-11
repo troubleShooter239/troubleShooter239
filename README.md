@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/nikita-morgun/" target="_blank">Nikita</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/nikita-morgun123/" target="_blank">Nikita</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 💻 **Software engineer** | Code, Cloud & Creativity  
 
@@ -21,5 +21,4 @@
 
 # Social Networks
 - 📫 You can reach me by email at [morgun2282@gmail.com](mailto:morgun2282@gmail.com)
-- 💼 You can visit my [LinkedIn](https://www.linkedin.com/in/nikta-morgun123/) for more info about my professional career
 - 🧠 You can check my [LeetCode profile](https://leetcode.com/u/troubleShooter239/)
