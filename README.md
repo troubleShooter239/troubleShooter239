@@ -20,5 +20,5 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=madushadhanushka&theme=tokyonight" alt="mystreak"/>
 
 # Social Networks
-- 📫 You can reach me by email at [morgun2282@gmail.com](mailto:morgun2282@gmail.com)
+- 📫 You can reach me by [email](mailto:morgun.nikita@outlook.com)
 - 🧠 You can check my [LeetCode profile](https://leetcode.com/u/troubleShooter239/)
