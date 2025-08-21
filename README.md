@@ -2,7 +2,7 @@
 
 💻 **Software engineer** | Code, Cloud & Creativity  
 
-⚡ **Languages:** C, C++, Python, Java, Kotlin, C#, JavaScript, TypeScript, Bash  
+⚡ **Languages:** C, C++, Python, Java, Kotlin, C#, PHP, JavaScript, TypeScript, Bash  
 🛠 **Frameworks:** FastAPI, Flask, Spring, .NET, Blazor  
 📦 **Tech Stack:** React, Node.js, OpenCV, TensorFlow, Keras, NumPy, Pandas  
 🗄 **Databases:** PostgreSQL, MongoDB, Firebase  
