@@ -1,3 +1,5 @@
+![Badge](assets/banner.svg)
+
 <p align="center">
   <a><img src="assets/banner.svg" width="100%" alt="Code, Cloud &amp; Creativity — animated terminal" /></a><br />
   <a><img src="assets/toolbox.svg" width="100%" alt="Technologies: Languages, Backend and Web, Frontend, AI and Machine Learning, Data and Databases, Cloud and DevOps, Dev Tools, Game Dev and Design" /></a><br />
