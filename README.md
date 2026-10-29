@@ -11,6 +11,9 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=troubleShooter239&amp;show_icons=true&amp;hide_title=true&amp;line_height=21&amp;bg_color=1e1e2e&amp;title_color=cba6f7&amp;text_color=cdd6f4&amp;icon_color=94e2d5&amp;hide_border=true&amp;border_radius=18" width="49%" alt="" />
-  <img src="https://streak-stats.demolab.com/?user=troubleShooter239&amp;background=1E1E2E&amp;ring=CBA6F7&amp;fire=94E2D5&amp;currStreakNum=CDD6F4&amp;sideNums=CDD6F4&amp;currStreakLabel=CBA6F7&amp;sideLabels=CBA6F7&amp;dates=A6ADC8&amp;stroke=313244&amp;hide_border=true&amp;border_radius=18" width="49%" alt="Contribution streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=troubleShooter239&amp;show_icons=true&amp;hide_title=true&amp;line_height=21&amp;card_width=960&amp;bg_color=1e1e2e&amp;title_color=cba6f7&amp;text_color=cdd6f4&amp;icon_color=94e2d5&amp;hide_border=true&amp;border_radius=18" width="100%" alt="" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=troubleShooter239&amp;card_width=960&amp;background=1E1E2E&amp;ring=CBA6F7&amp;fire=94E2D5&amp;currStreakNum=CDD6F4&amp;sideNums=CDD6F4&amp;currStreakLabel=CBA6F7&amp;sideLabels=CBA6F7&amp;dates=A6ADC8&amp;stroke=313244&amp;hide_border=true&amp;border_radius=18" width="100%" alt="Contribution streak" />
 </p>
