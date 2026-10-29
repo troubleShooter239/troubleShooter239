@@ -2,18 +2,26 @@
   <img src="assets/banner.svg" width="960" alt="Code, Cloud &amp; Creativity — animated terminal" />
 </p>
 
-<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/nikita-morgun123/" target="_blank">Nikita</a> <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" alt="Waving hand" /></h1>
-
-💻 **Software engineer** | Code, Cloud & Creativity<br>
-
 ⚡ **Languages:** C/C++, Python, Java/Kotlin, C#, PHP, JavaScript/TypeScript, Bash, Rust
-🛠 **Frameworks:** FastAPI, Flask, Django, Spring, ASP.NET
-📦 **Tech Stack:** React, Node.js, OpenCV, TensorFlow, Keras, NumPy, Pandas<br>
-🗄 **Databases:** PostgreSQL, MongoDB, Firebase<br>
-🚀 **DevOps:** Docker, Kubernetes, GitHub Actions, Gitlab CI, AWS<br>
+
+🛠 **Frameworks:** FastAPI, Flask, Django, Ray, Spring, ASP.NET
+
+📦 **Tech Stack:** React, Node.js, OpenCV, TensorFlow, Keras, NumPy, Pandas
+
+🤖 **AI:** LLMs, RAG, LangGraph, PyTorch, Hugging Face, ComfyUI, Ray Serve, ONNX Runtime, CUDA
+
+🗄 **Databases:** PostgreSQL, MongoDB, Firebase
+
+🚀 **DevOps:** Docker, Kubernetes, GitHub Actions, Gitlab CI, AWS
+
+🧰 **Dev Tools:** Zed, Claude, Codex, VS Code, Git
+
 🌐 **Web:** HTML, CSS, Nginx, OpenAPI
+
 🎮 **Game Dev:** Godot
-🎨 **Design:** Figma, Blender, DavinciResolve
+
+🎨 **Design:** Figma, Blender, Davinci Resolve
+
 🖥 **OS:** Arch Linux, Windows, MacOS
 
 > Always up for a challenge 🚀
