@@ -7,30 +7,10 @@
 </p>
 
 <p align="center">
-  <img src="assets/divider.svg" width="960" alt="" />
-</p>
-
-<p align="center">
   <img src="assets/stats.svg" width="960" alt="📊 GitHub activity and statistics" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=troubleShooter239&amp;show_icons=true&amp;bg_color=1e1e2e&amp;title_color=cba6f7&amp;text_color=cdd6f4&amp;icon_color=94e2d5&amp;hide_border=true&amp;border_radius=18" width="460" alt="GitHub statistics" />
   <img src="https://streak-stats.demolab.com/?user=troubleShooter239&amp;background=1E1E2E&amp;ring=CBA6F7&amp;fire=94E2D5&amp;currStreakNum=CDD6F4&amp;sideNums=CDD6F4&amp;currStreakLabel=CBA6F7&amp;sideLabels=CBA6F7&amp;dates=A6ADC8&amp;stroke=313244&amp;hide_border=true&amp;border_radius=18" width="460" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="960" alt="" />
-</p>
-
-<p align="center">
-  <img src="assets/social.svg" width="960" alt="📬 Connect and say hello" />
-</p>
-
-<p align="center">
-  <a href="mailto:morgun.nikita@outlook.com"><img src="assets/contact.svg" width="960" alt="Email Nikita: morgun.nikita@outlook.com" /></a>
-</p>
-
-<p align="center">
-  <img src="assets/divider.svg" width="960" alt="" />
 </p>

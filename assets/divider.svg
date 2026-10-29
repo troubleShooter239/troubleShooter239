@@ -1,5 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="28" viewBox="0 0 960 28" role="img" aria-label="Animated blue and lavender divider">
-  <defs><linearGradient id="line"><stop stop-color="#89b4fa" stop-opacity="0"/><stop offset=".5" stop-color="#cba6f7"/><stop offset="1" stop-color="#94e2d5" stop-opacity="0"/></linearGradient></defs>
-  <path d="M0 14H960" stroke="url(#line)" stroke-width="2"/>
-  <circle cx="480" cy="14" r="3" fill="#cba6f7"><animate attributeName="cx" values="30;930;30" dur="12s" repeatCount="indefinite"/><animate attributeName="opacity" values=".2;1;.2" dur="6s" repeatCount="indefinite"/></circle>
-</svg>
