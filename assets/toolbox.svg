@@ -1,67 +1,110 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1004" viewBox="0 0 960 1004" role="img" aria-label="Technologies and tools"
-><rect width="960" height="1004" rx="18" fill="#1e1e2e" /><g font-family="Consolas, Liberation Mono, monospace"
-    ><text x="30" y="44" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="24"
-        >🛠</text><text x="72" y="44" fill="#cba6f7" font-size="22" font-weight="700"
-        >TECHNOLOGIES / TOOLBOX</text><g transform="translate(24 68)"><rect width="912" height="100" rx="12" fill="#181825" stroke="#313244"
-            /><rect y="16" width="3" height="68" rx="1" fill="#89b4fa"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"
-                /></rect><text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21"
-            >⚡</text><text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700"
-            >Languages</text><text x="20" y="56" fill="#cdd6f4" font-size="17"
-            >Python, Rust, Java / Kotlin, C / C++, C#, Bash, Lua</text><text x="20" y="79" fill="#cdd6f4" font-size="17"
-            >JavaScript / TypeScript, Dart, SQL</text><path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24"
-            ><animate attributeName="stroke-dashoffset" from="0" to="-58" dur="4s" repeatCount="indefinite"
-                /></path></g><g transform="translate(24 182)"><rect width="912" height="100" rx="12" fill="#181825" stroke="#313244"
-            /><rect y="16" width="3" height="68" rx="1" fill="#89b4fa"><animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite"
-                /></rect><text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21"
-            >🌐</text><text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700"
-            >Backend &amp; Web</text><text x="20" y="56" fill="#cdd6f4" font-size="17"
-            >FastAPI, Flask, Ray, Spring, Ktor, ASP.NET, Node.js</text><text x="20" y="79" fill="#cdd6f4" font-size="17"
-            >OpenAPI, Nginx, JWT, OAuth, Kafka, RabbitMQ</text><path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24"
-            ><animate attributeName="stroke-dashoffset" from="0" to="-58" dur="5s" repeatCount="indefinite"
-                /></path></g><g transform="translate(24 296)"><rect width="912" height="100" rx="12" fill="#181825" stroke="#313244"
-            /><rect y="16" width="3" height="68" rx="1" fill="#89b4fa"><animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite"
-                /></rect><text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21"
-            >🎨</text><text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700"
-            >Frontend</text><text x="20" y="56" fill="#cdd6f4" font-size="17"
-            >HTML / CSS, React, TailwindCSS, Vite, Flutter</text><path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24"
-            ><animate attributeName="stroke-dashoffset" from="0" to="-58" dur="5s" repeatCount="indefinite"
-                /></path></g><g transform="translate(24 410)"><rect width="912" height="100" rx="12" fill="#181825" stroke="#313244"
-            /><rect y="16" width="3" height="68" rx="1" fill="#89b4fa"><animate attributeName="opacity" values=".3;1;.3" dur="6s" repeatCount="indefinite"
-                /></rect><text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21"
-            >🤖</text><text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700"
-            >AI &amp; Machine Learning</text><text x="20" y="56" fill="#cdd6f4" font-size="17"
-            >LLMs, RAG, Hugging Face, LangGraph, ComfyUI, OpenCV</text><text x="20" y="79" fill="#cdd6f4" font-size="17"
-            >PyTorch, TensorFlow, ONNX Runtime, CUDA</text><path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24"
-            ><animate attributeName="stroke-dashoffset" from="0" to="-58" dur="6s" repeatCount="indefinite"
-                /></path></g><g transform="translate(24 524)"><rect width="912" height="100" rx="12" fill="#181825" stroke="#313244"
-            /><rect y="16" width="3" height="68" rx="1" fill="#89b4fa"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"
-                /></rect><text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21"
-            >🗄</text><text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700"
-            >Data &amp; Databases</text><text x="20" y="56" fill="#cdd6f4" font-size="17"
-            >PostgreSQL, SQLite, MongoDB, Redis, S3, Firebase</text><text x="20" y="79" fill="#cdd6f4" font-size="17"
-            >NumPy, Pandas, OpenSearch</text><path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24"
-            ><animate attributeName="stroke-dashoffset" from="0" to="-58" dur="4s" repeatCount="indefinite"
-                /></path></g><g transform="translate(24 638)"><rect width="912" height="100" rx="12" fill="#181825" stroke="#313244"
-            /><rect y="16" width="3" height="68" rx="1" fill="#89b4fa"><animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite"
-                /></rect><text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21"
-            >🚀</text><text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700"
-            >Cloud &amp; DevOps</text><text x="20" y="56" fill="#cdd6f4" font-size="17"
-            >AWS, Docker, Kubernetes, GitHub Actions, GitLab CI</text><text x="20" y="79" fill="#cdd6f4" font-size="17"
-            >Arch Linux, Windows, macOS</text><path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24"
-            ><animate attributeName="stroke-dashoffset" from="0" to="-58" dur="5s" repeatCount="indefinite"
-                /></path></g><g transform="translate(24 752)"><rect width="912" height="100" rx="12" fill="#181825" stroke="#313244"
-            /><rect y="16" width="3" height="68" rx="1" fill="#89b4fa"><animate attributeName="opacity" values=".3;1;.3" dur="6s" repeatCount="indefinite"
-                /></rect><text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21"
-            >🧰</text><text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700"
-            >Dev Tools</text><text x="20" y="56" fill="#cdd6f4" font-size="17"
-            >Zed, Claude code, Codex, VS Code, Git</text><path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24"
-            ><animate attributeName="stroke-dashoffset" from="0" to="-58" dur="6s" repeatCount="indefinite"
-                /></path></g><g transform="translate(24 866)"><rect width="912" height="100" rx="12" fill="#181825" stroke="#313244"
-            /><rect y="16" width="3" height="68" rx="1" fill="#89b4fa"><animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite"
-                /></rect><text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21"
-            >🎮</text><text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700"
-            >Game Dev &amp; Design</text><text x="20" y="56" fill="#cdd6f4" font-size="17"
-            >Godot, Unreal Engine, Vulkan API, Blender</text><text x="20" y="79" fill="#cdd6f4" font-size="17"
-            >Figma, DaVinci Resolve</text><path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24"
-            ><animate attributeName="stroke-dashoffset" from="0" to="-58" dur="4s" repeatCount="indefinite"
-                /></path></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="1004" viewBox="0 0 960 1004" role="img" aria-label="Technologies and tools">
+  <title id="title">Technologies and toolbox</title>
+  <rect width="960" height="1004" rx="18" fill="#1e1e2e" />
+  <g font-family="Consolas, Liberation Mono, monospace">
+    <text x="30" y="44" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="24">🛠</text>
+    <text x="72" y="44" fill="#cba6f7" font-size="22" font-weight="700">TECHNOLOGIES / TOOLBOX</text>
+    <g transform="translate(24 68)">
+      <rect width="912" height="100" rx="12" fill="#181825" stroke="#313244" />
+      <rect y="16" width="3" height="68" rx="1" fill="#89b4fa">
+        <animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite" />
+      </rect>
+      <text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21">⚡</text>
+      <text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700">Languages</text>
+      <text x="20" y="56" fill="#cdd6f4" font-size="17">Python, Rust, Java / Kotlin, C / C++, C#, Bash, Lua</text>
+      <text x="20" y="79" fill="#cdd6f4" font-size="17">JavaScript / TypeScript, Dart, SQL</text>
+      <path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24">
+        <animate attributeName="stroke-dashoffset" from="0" to="-58" dur="4s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <g transform="translate(24 182)">
+      <rect width="912" height="100" rx="12" fill="#181825" stroke="#313244" />
+      <rect y="16" width="3" height="68" rx="1" fill="#89b4fa">
+        <animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite" />
+      </rect>
+      <text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21">🌐</text>
+      <text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700">Backend &amp; Web</text>
+      <text x="20" y="56" fill="#cdd6f4" font-size="17">FastAPI, Flask, Ray, Spring, Ktor, ASP.NET, Node.js</text>
+      <text x="20" y="79" fill="#cdd6f4" font-size="17">OpenAPI, Nginx, JWT, OAuth, Kafka, RabbitMQ</text>
+      <path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24">
+        <animate attributeName="stroke-dashoffset" from="0" to="-58" dur="5s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <g transform="translate(24 296)">
+      <rect width="912" height="100" rx="12" fill="#181825" stroke="#313244" />
+      <rect y="16" width="3" height="68" rx="1" fill="#89b4fa">
+        <animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite" />
+      </rect>
+      <text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21">🎨</text>
+      <text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700">Frontend</text>
+      <text x="20" y="56" fill="#cdd6f4" font-size="17">HTML / CSS, React, TailwindCSS, Vite, Flutter</text>
+      <path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24">
+        <animate attributeName="stroke-dashoffset" from="0" to="-58" dur="5s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <g transform="translate(24 410)">
+      <rect width="912" height="100" rx="12" fill="#181825" stroke="#313244" />
+      <rect y="16" width="3" height="68" rx="1" fill="#89b4fa">
+        <animate attributeName="opacity" values=".3;1;.3" dur="6s" repeatCount="indefinite" />
+      </rect>
+      <text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21">🤖</text>
+      <text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700">AI &amp; Machine Learning</text>
+      <text x="20" y="56" fill="#cdd6f4" font-size="17">LLMs, RAG, Hugging Face, LangGraph, ComfyUI, OpenCV</text>
+      <text x="20" y="79" fill="#cdd6f4" font-size="17">PyTorch, TensorFlow, ONNX Runtime, CUDA</text>
+      <path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24">
+        <animate attributeName="stroke-dashoffset" from="0" to="-58" dur="6s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <g transform="translate(24 524)">
+      <rect width="912" height="100" rx="12" fill="#181825" stroke="#313244" />
+      <rect y="16" width="3" height="68" rx="1" fill="#89b4fa">
+        <animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite" />
+      </rect>
+      <text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21">🗄</text>
+      <text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700">Data &amp; Databases</text>
+      <text x="20" y="56" fill="#cdd6f4" font-size="17">PostgreSQL, SQLite, MongoDB, Redis, S3, Firebase</text>
+      <text x="20" y="79" fill="#cdd6f4" font-size="17">NumPy, Pandas, OpenSearch</text>
+      <path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24">
+        <animate attributeName="stroke-dashoffset" from="0" to="-58" dur="4s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <g transform="translate(24 638)">
+      <rect width="912" height="100" rx="12" fill="#181825" stroke="#313244" />
+      <rect y="16" width="3" height="68" rx="1" fill="#89b4fa">
+        <animate attributeName="opacity" values=".3;1;.3" dur="5s" repeatCount="indefinite" />
+      </rect>
+      <text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21">🚀</text>
+      <text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700">Cloud &amp; DevOps</text>
+      <text x="20" y="56" fill="#cdd6f4" font-size="17">AWS, Docker, Kubernetes, GitHub Actions, GitLab CI</text>
+      <text x="20" y="79" fill="#cdd6f4" font-size="17">Arch Linux, Windows, macOS</text>
+      <path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24">
+        <animate attributeName="stroke-dashoffset" from="0" to="-58" dur="5s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <g transform="translate(24 752)">
+      <rect width="912" height="100" rx="12" fill="#181825" stroke="#313244" />
+      <rect y="16" width="3" height="68" rx="1" fill="#89b4fa">
+        <animate attributeName="opacity" values=".3;1;.3" dur="6s" repeatCount="indefinite" />
+      </rect>
+      <text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21">🧰</text>
+      <text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700">Dev Tools</text>
+      <text x="20" y="56" fill="#cdd6f4" font-size="17">Zed, Claude Code, Codex, VS Code, Git</text>
+      <path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24">
+        <animate attributeName="stroke-dashoffset" from="0" to="-58" dur="6s" repeatCount="indefinite" />
+      </path>
+    </g>
+    <g transform="translate(24 866)">
+      <rect width="912" height="100" rx="12" fill="#181825" stroke="#313244" />
+      <rect y="16" width="3" height="68" rx="1" fill="#89b4fa">
+        <animate attributeName="opacity" values=".3;1;.3" dur="4s" repeatCount="indefinite" />
+      </rect>
+      <text x="20" y="30" font-family="Segoe UI Emoji, Apple Color Emoji, sans-serif" font-size="21">🎮</text>
+      <text x="58" y="30" fill="#cba6f7" font-size="18" font-weight="700">Game Dev &amp; Design</text>
+      <text x="20" y="56" fill="#cdd6f4" font-size="17">Godot, Unreal Engine, Vulkan API, Blender</text>
+      <text x="20" y="79" fill="#cdd6f4" font-size="17">Figma, DaVinci Resolve</text>
+      <path d="M20 93H890" stroke="#89b4fa" stroke-opacity=".3" stroke-dasharray="5 24">
+        <animate attributeName="stroke-dashoffset" from="0" to="-58" dur="4s" repeatCount="indefinite" />
+      </path>
+    </g>
+  </g>
+</svg>
