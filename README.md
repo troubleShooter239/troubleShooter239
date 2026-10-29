@@ -2,38 +2,47 @@
   <img src="assets/banner.svg" width="960" alt="Code, Cloud &amp; Creativity — animated terminal" />
 </p>
 
-⚡ **Languages:** C/C++, Python, Java/Kotlin, C#, PHP, JavaScript/TypeScript, Bash, Rust
+<p align="center"><img src="assets/toolbox.svg" width="960" alt="Technology stack: languages, frameworks, AI, databases, DevOps, developer tools, web, game development, design and operating systems" /></p>
 
-🛠 **Frameworks:** FastAPI, Flask, Django, Ray, Spring, ASP.NET
+<details>
+<summary>View technologies as text</summary>
 
-📦 **Tech Stack:** React, Node.js, OpenCV, TensorFlow, Keras, NumPy, Pandas
+**Languages:** C/C++, Python, Java/Kotlin, C#, PHP, JavaScript/TypeScript, Bash, Rust
 
-🤖 **AI:** LLMs, RAG, LangGraph, PyTorch, Hugging Face, ComfyUI, Ray Serve, ONNX Runtime, CUDA
+**Frameworks:** FastAPI, Flask, Django, Ray, Spring, ASP.NET
 
-🗄 **Databases:** PostgreSQL, MongoDB, Firebase
+**Tech Stack:** React, Node.js, OpenCV, TensorFlow, Keras, NumPy, Pandas
 
-🚀 **DevOps:** Docker, Kubernetes, GitHub Actions, Gitlab CI, AWS
+**AI:** LLMs, RAG, LangGraph, PyTorch, Hugging Face, ComfyUI, Ray Serve, ONNX Runtime, CUDA
 
-🧰 **Dev Tools:** Zed, Claude, Codex, VS Code, Git
+**Databases:** PostgreSQL, MongoDB, Firebase
 
-🌐 **Web:** HTML, CSS, Nginx, OpenAPI
+**DevOps:** Docker, Kubernetes, GitHub Actions, Gitlab CI, AWS
 
-🎮 **Game Dev:** Godot
+**Dev Tools:** Zed, Claude, Codex, VS Code, Git
 
-🎨 **Design:** Figma, Blender, Davinci Resolve
+**Web:** HTML, CSS, Nginx, OpenAPI
 
-🖥 **OS:** Arch Linux, Windows, MacOS
+**Game Dev:** Godot
+
+**Design:** Figma, Blender, Davinci Resolve
+
+**OS:** Arch Linux, Windows, MacOS
+
+</details>
 
 > Always up for a challenge 🚀
 
 <p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
 
-# Stats
+<p align="center"><img src="assets/stats.svg" width="960" alt="GitHub activity and statistics" /></p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=troubleShooter239&theme=catppuccin_mocha&show_icons=true)
 
 <img src="https://streak-stats.demolab.com/?user=troubleShooter239&theme=catppuccin-mocha" alt="GitHub contribution streak for troubleShooter239"/>
 
 <p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
 
-# Social Networks
+<p align="center"><img src="assets/social.svg" width="960" alt="Connect and say hello" /></p>
 - 📫 You can reach me by [email](mailto:morgun.nikita@outlook.com)
+
+<p align="center"><img src="assets/divider.svg" width="960" alt="" /></p>
